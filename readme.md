@@ -3,16 +3,16 @@ Author: Tushar Goel (goeltushar23@gmail.com)
 Added: 10th April 2017
 Last Modified
 
-***What
+##What
 A small chat application using Express, NodeJS and socket.io
 
-***How to run
-npm install
-node server.js
+##How to run
+* npm install
+* node server.js
 
-***Next Steps
+##Next Steps
 
-**Add the following functionalities
+**Add the following functionalities**
 * Broadcast a message to connected users when someone connects or disconnects
 * Add support for nicknames
 * Don’t send the same message to the user that sent it himself. Instead, append the message directly as soon as he presses enter.
@@ -22,7 +22,7 @@ node server.js
 * Android and IOS App
 * Mac app
 
-**Tech Changes
+**Tech Changes**
 * Change to React
 * Host on a cloud server
 * Styling changes
