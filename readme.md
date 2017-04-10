@@ -1,18 +1,18 @@
-Author: Tushar Goel (goeltushar23@gmail.com)
+__Author__: Tushar Goel (goeltushar23@gmail.com)
 
-Added: 10th April 2017
-Last Modified
+__Added__: 10th April 2017
+__Last Modified__: 10th April 2017
 
-##What
+## What
 A small chat application using Express, NodeJS and socket.io
 
-##How to run
+## How to run
 * npm install
 * node server.js
 
-##Next Steps
+## Next Steps
 
-**Add the following functionalities**
+__Add the following functionalities__
 * Broadcast a message to connected users when someone connects or disconnects
 * Add support for nicknames
 * Don’t send the same message to the user that sent it himself. Instead, append the message directly as soon as he presses enter.
@@ -22,7 +22,7 @@ A small chat application using Express, NodeJS and socket.io
 * Android and IOS App
 * Mac app
 
-**Tech Changes**
+__Tech Changes__
 * Change to React
 * Host on a cloud server
 * Styling changes
